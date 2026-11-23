@@ -1,0 +1,6 @@
+{
+  "serverHost": "ramirserver.feathermc.gg",
+  "serverPort": 25565,
+  "botUsername": "DawnGuard",
+  "botChunk": 4
+}
